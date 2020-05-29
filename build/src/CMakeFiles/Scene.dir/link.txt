@@ -1,0 +1,2 @@
+/bin/ar qc libScene.a  CMakeFiles/Scene.dir/Engine/Scene/Scene.cpp.o
+/bin/ranlib libScene.a

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/AssetPath/AssetPath.h
+
+../src/Engine/GameObject/IGameObject.h
+SFML/Graphics.hpp
+-
+ObjBehaviour.h
+../src/Engine/GameObject/ObjBehaviour.h
+
+../src/Engine/ObjBehaviour/ObjBehaviour.h
+SFML/Graphics.hpp
+-
+
+../src/TextureLoader/TextureLoader.h
+SFML/Graphics.hpp
+-
+string
+-
+
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/Chess.cpp
+Chess.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/Chess.h
+
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/Chess.h
+iostream
+-
+SFML/Graphics.hpp
+-
+TextureLoader.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/TextureLoader.h
+IGameObject.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/IGameObject.h
+AssetPath.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/AssetPath.h
+

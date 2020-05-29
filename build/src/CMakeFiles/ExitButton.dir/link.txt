@@ -1,0 +1,2 @@
+/bin/ar qc libExitButton.a  CMakeFiles/ExitButton.dir/Buttons/Exit/ExitButton.cpp.o
+/bin/ranlib libExitButton.a

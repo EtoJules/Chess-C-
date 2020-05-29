@@ -1,0 +1,2 @@
+/bin/ar qc libButton.a  CMakeFiles/Button.dir/Buttons/ChangeScene/ChangeSceneButton.cpp.o
+/bin/ranlib libButton.a

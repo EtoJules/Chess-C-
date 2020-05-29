@@ -1,0 +1,2 @@
+/bin/ar qc libDeskController.a  CMakeFiles/DeskController.dir/Chess/DeskController/DeskController.cpp.o
+/bin/ranlib libDeskController.a

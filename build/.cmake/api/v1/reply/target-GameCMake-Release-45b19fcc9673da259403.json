@@ -1,0 +1,388 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "GameCMake"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 47,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG  "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 12,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/TextureLoader"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Scene"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/GameObject"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Window"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/ObjBehaviour"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/Desk"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/Desk/Cell"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Chess/DeskController"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Buttons/ChangeScene"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Buttons/Exit"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Audio"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "/home/andrew/MY/PWR/Algorytmy/GameCMake/src/AssetPath"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "Window::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "Desk::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Audio::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "TextureLoader::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "DeskController::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Chess::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "Scene::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "ExitButton::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "ChangeSceneButton::@145eef247bfb46b6828c"
+		}
+	],
+	"id" : "GameCMake::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.5.1",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "src/libWindow.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "src/libScene.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "src/libChess.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "src/libDesk.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "src/libDeskController.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "src/libExitButton.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "src/libChangeSceneButton.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "src/libTextureLoader.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "src/libAudio.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "GameCMake",
+	"nameOnDisk" : "GameCMake",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

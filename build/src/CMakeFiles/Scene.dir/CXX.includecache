@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Engine/GameObject/IGameObject.h
+SFML/Graphics.hpp
+-
+ObjBehaviour.h
+../src/Engine/GameObject/ObjBehaviour.h
+
+../src/Engine/ObjBehaviour/ObjBehaviour.h
+SFML/Graphics.hpp
+-
+
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Scene/Scene.cpp
+Scene.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Scene/Scene.h
+
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Scene/Scene.h
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+IGameObject.h
+/home/andrew/MY/PWR/Algorytmy/GameCMake/src/Engine/Scene/IGameObject.h
+vector
+-
+memory
+-
+
