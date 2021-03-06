@@ -1,2 +1,0 @@
-/bin/ar qc libAudio.a  CMakeFiles/Audio.dir/Audio/Audio.cpp.o
-/bin/ranlib libAudio.a

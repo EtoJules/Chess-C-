@@ -1,2 +1,0 @@
-/bin/ar qc libAuduio.a  CMakeFiles/Auduio.dir/Audio/Audio.cpp.o
-/bin/ranlib libAuduio.a

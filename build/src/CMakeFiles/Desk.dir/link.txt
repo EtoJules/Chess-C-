@@ -1,2 +1,0 @@
-/bin/ar qc libDesk.a  CMakeFiles/Desk.dir/Chess/Desk/Desk.cpp.o
-/bin/ranlib libDesk.a

@@ -1,2 +1,0 @@
-/bin/ar qc libChangeSceneButton.a  CMakeFiles/ChangeSceneButton.dir/Buttons/ChangeScene/ChangeSceneButton.cpp.o
-/bin/ranlib libChangeSceneButton.a
